@@ -5,5 +5,5 @@ def add(x,y){
 
 def sub(x,y){
     echo "Welcome to JSL scripting scripting of substraction two numbers"
-  echo "Sum of ${x} and ${y} is ${x+y}"
+  echo "Substraction of ${x} and ${y} is ${x-y}"
  }
